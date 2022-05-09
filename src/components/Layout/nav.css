@@ -1,0 +1,8 @@
+.row{
+    background-image: radial-gradient( circle 151px at 49.4% 46.6%, rgba(0,228,204,0.21) 0%, rgba(255,223,24,0.32) 90% );
+}
+
+.navbar{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, #a5eee9 0%, #beb808 90% );
+
+}
